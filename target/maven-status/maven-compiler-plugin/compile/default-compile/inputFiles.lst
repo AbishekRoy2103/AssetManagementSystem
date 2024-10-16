@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\app\AssetManagementApp.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\dao\AssetManagementService.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\dao\AssetManagementServiceImpl.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\Entity\Asset.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\Entity\AssetAllocation.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\Entity\Employee.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\Entity\MaintenanceRecord.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\Entity\Reservation.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\exception\AssetNotFoundException.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\exception\AssetNotMaintainException.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\util\DBConnection.java
+C:\Users\DELL\Documents\NetBeansProjects\Asset_Management_System\src\main\java\util\DBPropertyUtil.java
